@@ -501,19 +501,19 @@ download:
 </tr>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}">10</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Habibie Satrio Nugroho&quot;}">Habibie Satrio Nugroho</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:19}">19</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Publikasi Desain&quot;}">Publikasi Desain</td>
-</tr>
-<tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:11}">11</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ivan Noor&quot;}">Ivan Noor</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:18}">18</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Publikasi Desain&quot;}">Publikasi Desain</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}">12</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:11}">11</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hutami Nur Saputri&quot;}">Hutami Nur Saputri</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:19}">19</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Publikasi Desain&quot;}">Publikasi Desain</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}">12</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dayan Agniansyah&quot;}">Dayan Agniansyah</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:19}">19</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Publikasi Desain&quot;}">Publikasi Desain</td>
 </tr>
@@ -610,7 +610,7 @@ download:
 <tr>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:14}">14</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vivi Usmayanti&quot;}">Vivi Usmayanti</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}">12</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}">11</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rekrutment&quot;}">Rekrutment</td>
 </tr>
 <tr>
@@ -628,7 +628,7 @@ download:
 <tr>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:17}">17</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Euis Ratna Sari&quot;}">Euis Ratna Sari</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15}">15</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15}">16</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rekrutment&quot;}">Rekrutment</td>
 </tr>
 <tr>
@@ -652,7 +652,7 @@ download:
 <tr>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:21}">21</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Susi Susanti&quot;}">Susi Susanti</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}">12</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}">11</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rekrutment&quot;}">Rekrutment</td>
 </tr>
 <tr>
